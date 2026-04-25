@@ -20,11 +20,11 @@ geographic distribution and electric range performance.
 |  Average Electric Range | **67.83 Miles** |
 |  BEV Vehicles | **117K (78% of total)** |
 |  PHEV Vehicles | **34K (22% of total)** |
-|  Top Manufacturer | **Tesla — 69K vehicles** |
-|  Second Manufacturer | **Nissan — 13K** |
-|  Third Manufacturer | **Chevrolet — 12K** |
-|  Peak Year | **2023 — 37K registrations** |
-|  Top Model | **Model Y — 29K vehicles** |
+|  Top Manufacturer | **Tesla - 69K vehicles** |
+|  Second Manufacturer | **Nissan - 13K** |
+|  Third Manufacturer | **Chevrolet - 12K** |
+|  Peak Year | **2023 - 37K registrations** |
+|  Top Model | **Model Y - 29K vehicles** |
 |  CAFV Eligible | **41.81% of vehicles** |
 
 ###  Business Insights
@@ -54,6 +54,4 @@ state for EV registrations across the USA.
 - Line Chart - adoption trend by model year
 - Bar Chart - manufacturer rankings
 
-###  Files
- [Download Power BI File](Electric Vehicle Analysis.pbix)
 
